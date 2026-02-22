@@ -24,7 +24,7 @@ Resources:
 - [https://www.youtube.com/watch?v=apGV9Kg7ics](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - [https://git-scm.com/install](https://git-scm.com/install)
 - [https://www.youtube.com/watch?v=_PPWWRV6gbA](https://www.youtube.com/watch?v=_PPWWRV6gbA)
-- Also refer to the 'git-cheat-shit.pdf' in this folder as well.
+- Also refer to the 'git-cheat-sheet.pdf' in this folder as well.
 
 ### After learning
 
