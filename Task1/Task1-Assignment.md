@@ -17,8 +17,8 @@ Since you have completed the learning phase, it is time to implement some basic 
 
 Make sure your local Git and GitHub accounts are connected.
 
-- Clone this repo. Make sure it is visible on your Github, and should be synced with your local copy.
-- Once you have a clone of the repo in your account, create a new folder under the Task1 directory, and put files of your choice in it.
+- Fork this repo. Make sure it is visible on your Github, and should be synced with your local copy.
+- Once you have a fork of the repo in your account, create a new folder under the Task1 directory, and put files of your choice in it.
 - Commit changes.
 - Write a markdown file listing what you did, commands you run and link to your cloned repository with the changes you made.
 - Make sure your documentation is detailed. Maybe add a little info about the commands themselves you ran.
