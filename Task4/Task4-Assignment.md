@@ -1,6 +1,6 @@
 # Task-4: Assignment
 
-### Week 2 → Blocking vs Non-blocking + Concurrency (Threading)
+### Blocking vs Non-blocking + Concurrency (Threading)
 
 #### Objective
 
